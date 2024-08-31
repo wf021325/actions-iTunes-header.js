@@ -1,0 +1,8 @@
+[wrap-git]
+url = https://github.com/frida/frida-core.git
+revision = 16.4.10
+depth = 1
+
+[provide]
+dependency_names = frida-core-1.0
+
